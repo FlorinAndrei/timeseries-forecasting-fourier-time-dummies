@@ -18,7 +18,7 @@ Time dummies (actually, one-hot encoded, see article below) are used here to mod
 
 More details on how to use the Fourier spectrogram to learn time dummy envelopes can be found in my article on Towards Data Science, which is a companion article for this project:
 
-https://towardsdatascience.com/modeling-variable-seasonal-features-with-the-fourier-transform-18c792102047
+https://medium.com/data-science/modeling-variable-seasonal-features-with-the-fourier-transform-18c792102047
 
 # Kaggle links
 
